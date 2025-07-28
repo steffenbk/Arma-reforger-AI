@@ -144,11 +144,11 @@ class LLMManager:
                     "options": {
                         "temperature": 0.1,
                         "top_p": 0.9,
-                        "num_ctx": 1024,  # REDUCED from 2048 for memory queries
-                        "num_predict": 512  # REDUCED from 1024 for shorter responses
+                        "num_ctx": 2048,  # REDUCED from 2048 for memory queries
+                        "num_predict": 1024  # REDUCED from 1024 for shorter responses
                     }
                 },
-                timeout=60  # REDUCED from 180 - fail fast for memory queries
+                timeout=180  # REDUCED from 180 - fail fast for memory queries
             )
             
             if response.status_code == 200:
