@@ -43,18 +43,18 @@ ollama run qwen3:14b
 ```
 
 ---
-
-### Step 4: Install Files
-- Download and extract the ZIP from Google Drive
- https://drive.google.com/file/d/1j4G_hvaeDo1HT3v3wYF-ywOWve3JDsxr/view?usp=sharing](https://drive.google.com/file/d/1XKTPeD0KUU3hEAQZF20mpaqBgHVZH8B6/view?usp=sharing
----
-
-### Step 5: Organize Files
+### Step 4: Organize Files
 Create a base folder to store it, for example:
 ```
 C:\ArmaModdingRAG
 ```
 ---
+
+### Step 5: Install Files
+- Download and extract the ZIP from Google Drive
+ https://drive.google.com/file/d/1j4G_hvaeDo1HT3v3wYF-ywOWve3JDsxr/view?usp=sharing](https://drive.google.com/file/d/1XKTPeD0KUU3hEAQZF20mpaqBgHVZH8B6/view?usp=sharing
+---
+
 
 ### Step 6: Launch the Server
 
