@@ -40,43 +40,18 @@ ollama run qwen3:14b
 ---
 
 ### Step 4: Install Files
-- Clone or download this GitHub repository
-- Download and extract the documentation ZIP from Google Drive
+- Download and extract the ZIP from Google Drive
 
 ---
 
 ### Step 5: Organize Files
-Create a base directory, for example:
+Create a base folder to store it, for example:
 ```
 C:\ArmaModdingRAG
 ```
-
-Inside that directory, place the following:
-```
-C:\ArmaModdingRAG\Arma_Reforger_RAG_Organized
-C:\ArmaModdingRAG\chroma_db
-```
-
-Place the Python script files (from GitHub) directly into:
-```
-C:\ArmaModdingRAG
-```
-
 ---
 
-### Step 6: Configure `Config.py`
-
-Open `Config.py` with a text editor and update the following paths:
-
-```python
-documents_path: str = r"C:\ArmaModdingRAG\Arma_Reforger_RAG_Organized"
-vector_db_path: str = r"C:\ArmaModdingRAG\chroma_db"
-memory_db_path: str = r"C:\ArmaModdingRAG\conversations.db"  # (This file will be created automatically)
-```
-
----
-
-### Step 7: Launch the Server
+### Step 6: Launch the Server
 
 - Ensure Ollama is running
 - Run `simple_launcher_server.bat` (You may get a Windows warning; this is normal)
@@ -85,8 +60,9 @@ Wait for the command window to complete loading (1–2 minutes depending on your
 
 ---
 
-### Step 8: Launch the Interface
+### Step 7: Launch the Interface
 
+- Go into the **Webui** folder and find **index.html**
 - Double-click on the HTML file to open the interface in your browser
 
 ---
@@ -94,4 +70,4 @@ Wait for the command window to complete loading (1–2 minutes depending on your
 ## Notes
 
 - Do **not** rename any of the directory structures inside the documentation folder
-- If you update the documentation, you may need to delete and regenerate the `chroma_db` folder
+
