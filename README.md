@@ -1,3 +1,8 @@
+<img width="3814" height="1880" alt="image" src="https://github.com/user-attachments/assets/59a210a9-1ba0-4308-8d35-c0cb641351b7" />
+
+
+
+
 # Arma-reforger-AI
 
 This project is a modular, AI-powered Retrieval-Augmented Generation (RAG) system designed to assist Arma Reforger modding. It combines intelligent document search, chat-based interaction, and persistent memory to provide accurate, fast, and context-aware responses to modding-related queries.
