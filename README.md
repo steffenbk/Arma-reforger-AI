@@ -8,7 +8,7 @@
 This project is a modular, AI-powered Retrieval-Augmented Generation (RAG) system designed to assist Arma Reforger modding. It combines intelligent document search, chat-based interaction, and persistent memory to provide accurate, fast, and context-aware responses to modding-related queries.
 
 
-**Download RAG documents and launcher**, must have: https://drive.google.com/file/d/1j4G_hvaeDo1HT3v3wYF-ywOWve3JDsxr/view?usp=sharing](https://drive.google.com/file/d/1XKTPeD0KUU3hEAQZF20mpaqBgHVZH8B6/view?usp=sharing
+
 
 
 ---
@@ -46,7 +46,7 @@ ollama run qwen3:14b
 
 ### Step 4: Install Files
 - Download and extract the ZIP from Google Drive
-
+ https://drive.google.com/file/d/1j4G_hvaeDo1HT3v3wYF-ywOWve3JDsxr/view?usp=sharing](https://drive.google.com/file/d/1XKTPeD0KUU3hEAQZF20mpaqBgHVZH8B6/view?usp=sharing
 ---
 
 ### Step 5: Organize Files
