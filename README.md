@@ -52,7 +52,7 @@ C:\ArmaModdingRAG
 
 ### Step 5: Install Files
 - Download and extract the ZIP from Google Drive
- https://drive.google.com/file/d/1j4G_hvaeDo1HT3v3wYF-ywOWve3JDsxr/view?usp=sharing](https://drive.google.com/file/d/1XKTPeD0KUU3hEAQZF20mpaqBgHVZH8B6/view?usp=sharing
+[ https://drive.google.com/file/d/1j4G_hvaeDo1HT3v3wYF-ywOWve3JDsxr/view?usp=sharing](https://drive.google.com/file/d/1XKTPeD0KUU3hEAQZF20mpaqBgHVZH8B6/view?usp=sharing](https://drive.google.com/file/d/1XKTPeD0KUU3hEAQZF20mpaqBgHVZH8B6/view?usp=drive_link)
 ---
 
 
