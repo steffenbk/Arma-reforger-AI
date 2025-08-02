@@ -75,3 +75,9 @@ Wait for the command window to complete loading (1–2 minutes depending on your
 
 - Do **not** rename any of the directory structures inside the documentation folder
 
+
+
+**example usecase**
+
+<img width="3828" height="1819" alt="image" src="https://github.com/user-attachments/assets/77026735-9f24-4b76-9e3e-51875d7c90b7" />
+
