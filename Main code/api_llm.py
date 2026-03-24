@@ -7,14 +7,14 @@ from typing import List, Dict, Any, Optional
 try:
     from langchain_chroma import Chroma
 except ImportError:
-    from langchain.vectorstores import Chroma
+    from langchain_community.vectorstores import Chroma
     
 try:
     from langchain_huggingface import HuggingFaceEmbeddings
 except ImportError:
     from langchain.embeddings import HuggingFaceEmbeddings
     
-from langchain.schema import Document
+from langchain_core.documents import Document
 import requests
 
 from config import APIConfig

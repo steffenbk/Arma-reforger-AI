@@ -10,7 +10,7 @@ Responsibilities:
 
 import logging
 from typing import Dict, Any, List, Optional
-from langchain.schema import Document
+from langchain_core.documents import Document
 
 from ai_reasoning import DynamicReasoningEngine, ReasoningResult
 from ai_prompts import DynamicPromptBuilder, ReasoningPromptOptimizer
